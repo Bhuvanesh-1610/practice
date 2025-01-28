@@ -1,4 +1,4 @@
-package org.Stream;
+package org.Stream.Classes;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

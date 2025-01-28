@@ -1,4 +1,4 @@
-package org.Stream;
+package org.Stream.Classes;
 
 import org.Stream.interfaces.Isum;
 

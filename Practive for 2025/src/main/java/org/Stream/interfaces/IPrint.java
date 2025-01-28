@@ -1,5 +1,5 @@
 package org.Stream.interfaces;
 
 public interface IPrint {
-    void printData(String data);
+    String printData(String data);
 }
