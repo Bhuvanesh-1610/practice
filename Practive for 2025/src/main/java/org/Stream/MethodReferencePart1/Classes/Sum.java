@@ -1,6 +1,6 @@
-package org.Stream.Classes;
+package org.Stream.MethodReferencePart1.Classes;
 
-import org.Stream.interfaces.Isum;
+import org.Stream.MethodReferencePart1.interfaces.Isum;
 
 public class Sum {
     public static void main(String[] args) {

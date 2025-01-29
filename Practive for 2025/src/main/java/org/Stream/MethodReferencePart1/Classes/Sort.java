@@ -1,6 +1,6 @@
-package org.Stream.Classes;
+package org.Stream.MethodReferencePart1.Classes;
 
-import org.Stream.interfaces.ISort;
+import org.Stream.MethodReferencePart1.interfaces.ISort;
 
 import java.util.Arrays;
 import java.util.Collections;

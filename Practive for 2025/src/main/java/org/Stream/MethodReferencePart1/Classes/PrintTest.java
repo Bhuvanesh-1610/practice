@@ -1,6 +1,6 @@
-package org.Stream.Classes;
+package org.Stream.MethodReferencePart1.Classes;
 
-import org.Stream.interfaces.IPrint;
+import org.Stream.MethodReferencePart1.interfaces.IPrint;
 
 public class PrintTest {
     public static void main(String[] args) {

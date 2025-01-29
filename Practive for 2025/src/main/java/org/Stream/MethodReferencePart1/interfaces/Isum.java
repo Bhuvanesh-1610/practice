@@ -1,4 +1,4 @@
-package org.Stream.interfaces;
+package org.Stream.MethodReferencePart1.interfaces;
 
 @FunctionalInterface
 public interface Isum {

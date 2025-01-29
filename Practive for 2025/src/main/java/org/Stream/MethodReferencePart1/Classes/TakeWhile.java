@@ -1,4 +1,4 @@
-package org.Stream.Classes;
+package org.Stream.MethodReferencePart1.Classes;
 
 import java.util.stream.Stream;
 
