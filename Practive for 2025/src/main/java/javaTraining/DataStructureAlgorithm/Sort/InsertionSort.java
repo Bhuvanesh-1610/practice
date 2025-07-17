@@ -1,4 +1,4 @@
-package javaTraining.DataStructureAlgorithm;
+package javaTraining.DataStructureAlgorithm.Sort;
 
 public class InsertionSort {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaTraining.DataStructureAlgorithm;
+package javaTraining.DataStructureAlgorithm.Sort;
 
 public class MergeSort {
 

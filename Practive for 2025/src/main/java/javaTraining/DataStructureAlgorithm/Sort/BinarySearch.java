@@ -1,6 +1,5 @@
-package javaTraining.DataStructureAlgorithm;
+package javaTraining.DataStructureAlgorithm.Sort;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
